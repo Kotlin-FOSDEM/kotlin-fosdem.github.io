@@ -11,7 +11,7 @@ lsi: false
 markdown: kramdown
 
 ### content configuration ###
-title: "Kotlin DevRoom @ FOSDEM"
+title: "Kotlin Stand @ FOSDEM"
 keywords: "kotlin, fosdem, open source, developers, conference, meetup, call for paper, oss"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/Kotlin-FOSDEM/kotlin-fosdem.github.io"
